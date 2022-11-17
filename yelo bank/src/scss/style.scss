@@ -1,0 +1,13 @@
+@import "partials/varaible";
+@import "partials/mixin";
+@import "layout/navbar";
+@import "pages/home/yelobank";
+
+
+   * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+ font-family: Arial, Helvetica, sans-serif;
+}
